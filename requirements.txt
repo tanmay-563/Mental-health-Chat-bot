@@ -2,3 +2,5 @@ requests
 python-dotenv
 matplotlib
 Pillow
+matplotlib
+torch
